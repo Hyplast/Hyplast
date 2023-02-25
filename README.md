@@ -1,4 +1,4 @@
-![Hyplast's github stats](https://github-readme-stats.vercel.app/api?username=Hyplat&show_icons=true&theme=merko&hide_title=true)[![Hyplast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyplast&layout=compact&theme=merko)](https://github.com/Hyplast). ![Hyplast's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hyplast&theme=merko)
+![Hyplast's github stats](https://github-readme-stats.vercel.app/api?username=Hyplast&show_icons=true&theme=merko&hide_title=true)[![Hyplast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyplast&layout=compact&theme=merko)](https://github.com/Hyplast). ![Hyplast's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hyplast&theme=merko)
 
 ### Connect with me
 
